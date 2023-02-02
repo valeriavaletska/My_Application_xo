@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application xo</string>
+    <string name="QuestionsXO">QuestionsXO</string>
+    <string name="Question">Questions</string>
+    <string name="X">X</string>
+    <string name="falseO">O</string>
+    <string name="OK">OK</string>
+</resources>
